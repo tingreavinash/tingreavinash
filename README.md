@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Avinash Tingre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, I am Avinash.
 
-<!---
-tingreavinash/tingreavinash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working in **AI Domain** for one of the leading AI Company
+- 🌱 I’m currently learning **Angular**
+- 💬 Ask me about **Java, Spring Boot, Design Patterns**
+- 📫 How to reach me: Connect with me on **[LinkedIn](https://www.linkedin.com/in/abtingre)** or You can drop a mail at **`tingre.avinash@gmail.com`**
