@@ -5,5 +5,3 @@
 - 💬 I am interested in Backend Design and Development, Microservice architecture, RESTful APIs and Cloud Native technologies.
 - 📫 You can drop a mail at **[`tingre.avinash@gmail.com`](mailto:tingre.avinash@gmail.com)**
 - ⚡ **[Click Here](https://tingreavinash.github.io)** to know more about me!
-
-## 🛠 My Toolkit
